@@ -1,0 +1,17 @@
+manual de uso
+docmuentar
+recomendaciones
+99 para notas
+
+
+
+organizacion y tipos de datos de archivos
+archivos planos
+Archivos secuenciales e indexados. Formas de acceso.
+
+
+primero abrir el que tiene menos registros
+
+
+job control  -  JCL
+
